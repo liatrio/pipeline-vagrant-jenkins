@@ -20,6 +20,9 @@ What will this do:
     sudo wget -O /etc/yum.repos.d/jenkins.repo http://pkg.jenkins-ci.org/redhat/jenkins.repo
     sudo rpm --import https://jenkins-ci.org/redhat/jenkins-ci.org.key
     sudo yum install jenkins
+    cmd to restart:
+    sudo /etc/init.d/jenkins restart
+    systemctl restart jenkins.service
 8. Port foward from guest 8080 to 8082 on host. 
 9. Validate Jenkins is working. 
 10. Initalize plugin's - GitHub Plugin, Git Plugin, Pipeline Plugin. 
