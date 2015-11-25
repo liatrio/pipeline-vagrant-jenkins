@@ -34,4 +34,4 @@ What will this do:
 
 Issues to be resolved:
 1. How to get .gitignore to ignore .vagrant file. Adding .vagrant is not working - Closed. Working
-2. Jenkins not able to be accesed via URL. 
+2. Jenkins not able to be accesed via URL, tried to move port to 6060 but still no avil. Need help on this.  
