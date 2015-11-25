@@ -33,5 +33,5 @@ What will this do:
 15. Run again. 
 
 Issues to be resolved:
-1. How to get .gitignore to ignore .vagrant file. Adding .vagrant is not working - Open
-2. 
+1. How to get .gitignore to ignore .vagrant file. Adding .vagrant is not working - Closed. Working
+2. Jenkins not able to be accesed via URL. 
