@@ -1,3 +1,6 @@
+These steps below are redundant. Pulled down box with Centos + Jenkins and the app is running on 8080. The below is here because we need to create Jenkins from scratch at some point. 
+
+=====
 This is a test pipeline for vagrant-jenkins. This is not a ready or full version.
 
 What will this do:
